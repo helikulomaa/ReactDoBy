@@ -9,7 +9,7 @@ function App() {
         <p>
           DO BY 
         </p>
-        <p>Tehtävälistasovellus.</p>
+        <p>Tehtävälistasovellus</p>
       </header>
     </div>
   );
